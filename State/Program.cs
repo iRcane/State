@@ -118,10 +118,10 @@ namespace State
                 case DialogResult.Yes:
                     Save(form.GetFileName(), form.GetFileContent());
                     break;
-                case DialogResult.No:
+                case DialogResult.Cancel:
+                    e.Cancel = true;
                     break;
                 default:
-                    e.Cancel = true;
                     break;
             }
         }

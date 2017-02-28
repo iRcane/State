@@ -7,3 +7,6 @@ C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Filler\State\State\obj\Deb
 C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Filler\State\State\obj\Debug\State.csproj.GenerateResource.Cache
 C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Filler\State\State\obj\Debug\State.exe
 C:\Users\Dmitry\Documents\Visual Studio 2015\Projects\Filler\State\State\obj\Debug\State.pdb
+C:\Users\Dmitry\Desktop\State\State\bin\Debug\State.exe.config
+C:\Users\Dmitry\Desktop\State\State\obj\Debug\State.exe
+C:\Users\Dmitry\Desktop\State\State\obj\Debug\State.pdb
